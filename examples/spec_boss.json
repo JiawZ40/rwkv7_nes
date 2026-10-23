@@ -1,0 +1,14 @@
+{
+  "name": "castle_boss",
+  "scene": "boss",
+  "style": "nes",
+  "sound": "2a03",
+  "root": "D",
+  "mode": "minor",
+  "mood": "epic_tension",
+  "speed": "fast",
+  "density": "high",
+  "bpm": 168,
+  "bars": 32,
+  "seed": 7
+}

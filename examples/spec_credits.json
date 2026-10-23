@@ -1,0 +1,15 @@
+{
+  "name": "ending_theme",
+  "scene": "credits",
+  "style": "pop",
+  "sound": "2a03",
+  "root": "F",
+  "mode": "major",
+  "mood": "calm",
+  "speed": "slow",
+  "density": "low",
+  "bpm": 92,
+  "bars": 32,
+  "seed": 11,
+  "motif": [[0, 4, 65], [4, 8, 67], [8, 12, 69], [12, 16, 72]]
+}
